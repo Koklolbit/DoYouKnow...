@@ -1,1 +1,3 @@
 # DoYouKnow...
+
+Rus only
